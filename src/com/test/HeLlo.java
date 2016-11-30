@@ -5,4 +5,5 @@ public class HeLlo {
 		String name = "wshiwangtie";
 		System.out.println("Hello£º" + name);
 	}
+	
 }
